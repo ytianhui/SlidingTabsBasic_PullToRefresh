@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/yangtianhui/Downloads/SlidingTabsBasic%202/Application/src/main/res/values-v21/base-colors.xml -->
+    <eat-comment/>
+    <color name="background">#F7F4F0</color>
+    <color name="title_color">#333333</color>
+    <color name="transparent">#00000000</color>
+    <!-- From: file:/Users/yangtianhui/Downloads/SlidingTabsBasic%202/Application/src/main/res/values-v21/base-template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Material.Light">
+    </style>
+</resources>
